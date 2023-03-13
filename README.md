@@ -1,6 +1,7 @@
+![logo]()
 <h1 align="center">Hi 👋, I'm Mohamed Ali</h1>
 <h3 align="center">A passionate Full Stack developer from Somalia</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/424b91a7dbc23f136766f18467c1c4897f5f50e7123b35e36c9cd5bf05b4465e/68747470733a2f2f676c6f62616c656475636174696f6e2e73332e61702d736f7574682d312e616d617a6f6e6177732e636f6d2f676c6f62616c6564752f6769662f66726f6e742d656e642d646576656c6f706d656e742e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hay12k&label=Profile%20views&color=0e75b6&style=flat" alt="hay12k" /> </p>
 
