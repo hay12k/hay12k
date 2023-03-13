@@ -1,9 +1,10 @@
 ![logo](https://github.com/hay12k/hay12k/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Mohamed Ali</h1>
 <h3 align="center">A passionate Full Stack developer from Somalia</h3>
-<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hay12k&label=Profile%20views&color=0e75b6&style=flat" alt="hay12k" /> </p>
+
+<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 👨‍💻 All of my projects are available at [https://hay12k.github.io/protfolia/](https://hay12k.github.io/protfolia/)
 
