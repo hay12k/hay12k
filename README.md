@@ -7,7 +7,7 @@
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
-- 👨‍💻 All of my projects are available at [https://hay12k.github.io/protfolia/](https://hay12k.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://hay12k.github.io/portfolia/](https://hay12k.github.io/Portfolio/)
 
 - 📫 How to reach me **Hayaangroup93@gmail.com**
 
