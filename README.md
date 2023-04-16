@@ -3,6 +3,14 @@
 <h3 align="center">A passionate Full Stack developer from Somalia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hay12k&label=Profile%20views&color=0e75b6&style=flat" alt="hay12k" /> </p>
+<div> 
+  <a href="https://www.youtube.com/hayaangamer" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/cali_hayaan" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.facebook.com/calihayaan2" target="_blank"><img src="https://img.shields.io/badge/facebook-9146FF?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+  <a href = "mailto:hayaangroup93@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/calihayaan" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
